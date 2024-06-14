@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Actor3","classId":1,"equips":[33,0,25,28,99],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":99,"maxLevel":99,"name":"TESTSETTESTSET","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Canata","characterIndex":0,"characterName":"Genso_world","classId":1,"equips":[1,0,1,1,0],"faceIndex":0,"faceName":"Gensou_World","traits":[],"initialLevel":1,"maxLevel":99,"name":"彼方","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Hikari","characterIndex":1,"characterName":"Genso_world","classId":2,"equips":[3,0,1,1,0],"faceIndex":1,"faceName":"Gensou_World","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヒカリ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Zaku","characterIndex":2,"characterName":"Genso_world","classId":3,"equips":[2,0,1,1,0],"faceIndex":2,"faceName":"Gensou_World","traits":[],"initialLevel":1,"maxLevel":99,"name":"柘","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"sofia","characterIndex":3,"characterName":"Genso_world","classId":4,"equips":[4,0,1,1,0],"faceIndex":3,"faceName":"Gensou_World","traits":[],"initialLevel":1,"maxLevel":99,"name":"ソフィア","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":5,"equips":[5,0,1,1,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"宿屋のおばちゃん","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":7,"equips":[31,0,26,29,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":99,"maxLevel":99,"name":"1","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":8,"equips":[33,0,25,28,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":99,"maxLevel":99,"name":"2","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":9,"equips":[32,0,26,29,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":99,"maxLevel":99,"name":"3","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":10,"equips":[34,0,27,30,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"4","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
